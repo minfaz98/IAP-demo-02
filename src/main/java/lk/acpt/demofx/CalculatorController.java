@@ -24,12 +24,12 @@ public class CalculatorController {
 
     }
 
-    @FXML
-    void divied(ActionEvent event) {
-        calculation = "divide";
-
-
-    }
+//    @FXML
+//    void divied(ActionEvent event) {
+//        calculation = "divide";
+//
+//
+//    }
 
     @FXML
     void equal(ActionEvent event) {
@@ -60,21 +60,21 @@ public class CalculatorController {
 
 
     }
+//
+//    @FXML
+//    void mul(ActionEvent event) {
+//        calculation = "mul";
+//
+//    }
 
-    @FXML
-    void mul(ActionEvent event) {
-        calculation = "mul";
-
-    }
-
-    @FXML
-    void sub(ActionEvent event) {
-        calculation = "sub";
-
-    }
-
-    public void getAnswer(ActionEvent event) {
-
-    }
+//    @FXML
+//    void sub(ActionEvent event) {
+//        calculation = "sub";
+//
+//    }
+//
+//    public void getAnswer(ActionEvent event) {
+//
+//    }
 
 }
