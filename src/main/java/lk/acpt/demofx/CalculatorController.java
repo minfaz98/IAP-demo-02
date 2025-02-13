@@ -73,4 +73,8 @@ public class CalculatorController {
 
     }
 
+    public void getAnswer(ActionEvent event) {
+
+    }
+
 }
