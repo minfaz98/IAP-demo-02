@@ -60,12 +60,12 @@ public class CalculatorController {
 
 
     }
-
-    @FXML
-    void mul(ActionEvent event) {
-        calculation = "mul";
-
-    }
+//
+//    @FXML
+//    void mul(ActionEvent event) {
+//        calculation = "mul";
+//
+//    }
 
 //    @FXML
 //    void sub(ActionEvent event) {
