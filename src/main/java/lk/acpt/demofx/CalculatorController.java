@@ -67,14 +67,14 @@ public class CalculatorController {
 
     }
 
-    @FXML
-    void sub(ActionEvent event) {
-        calculation = "sub";
-
-    }
-
-    public void getAnswer(ActionEvent event) {
-
-    }
+//    @FXML
+//    void sub(ActionEvent event) {
+//        calculation = "sub";
+//
+//    }
+//
+//    public void getAnswer(ActionEvent event) {
+//
+//    }
 
 }
