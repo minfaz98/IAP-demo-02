@@ -17,12 +17,12 @@ public class CalculatorController {
     private Label lblAnswer;
 
 
-//    @FXML
-//    void add(ActionEvent event) {
-//        calculation = "add";
-//
-//
-//    }
+    @FXML
+    void add(ActionEvent event) {
+        calculation = "add";
+
+
+    }
 
 //    @FXML
 //    void divied(ActionEvent event) {
